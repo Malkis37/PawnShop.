@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Pawnshop.ApplicationForm">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>NAAIEAQAAKAAIDAgAADAACgCAQAJCAAAkAABQAAAEAA=</HashCode>
+      <FileName>ApplicationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pawnshop.Engine">
+    <Position X="12.25" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pawnshop.PawnShopForm">
+    <Position X="12.25" Y="2" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AgIBAAAVACBAABAAAACAAAAGAAkEICAAiIAACKBABAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pawnshop.Program">
+    <Position X="9.25" Y="3" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pawnshop.Datacore.Application">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAgAAAQAAgAAAAAAAAAAEAAAAAAAAAQAEAAAAAAQ=</HashCode>
+      <FileName>Models\Application.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pawnshop.Datacore.PledgeApplication">
+    <Position X="3.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Application.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pawnshop.Datacore.SaleApplication">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Application.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pawnshop.Datacore.RefundApplication">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Application.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pawnshop.Datacore.Client">
+    <Position X="10.75" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAABAAAAAIGAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pawnshop.Datacore.Item">
+    <Position X="9.25" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAQAAEAAAABAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pawnshop.Datacore.PawnShop">
+    <Position X="10.75" Y="3" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAQAAAAAAEAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Models\PawnShop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pawnshop.Properties.Resources">
+    <Position X="10.75" Y="5.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pawnshop.Properties.Settings">
+    <Position X="13.75" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAABAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Pawnshop.Datacore.ApplicationType">
+    <Position X="9.25" Y="4.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAgAA=</HashCode>
+      <FileName>Models\Application.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
